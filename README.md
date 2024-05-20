@@ -48,7 +48,7 @@ Don't be suprised if you have never encountered this method before , that's beca
 ##Credits
 
 * https://github.com/hunar4321
-* lil-gui@0.17
+* lil-gui@0.17 (control). 
 
                                                                                                                                                                                     
                                                                                                                                                                                     
