@@ -10,3 +10,7 @@ The favicon would have been impossible (literally) without the use of 'Gifski' @
 ****************************************************************************************************************************************************************************
 
 ![digital-zoo](favicon.gif) 
+
+<div style="float: right;">
+    <img src="control.png" alt="control panel" width="200">
+</div>
