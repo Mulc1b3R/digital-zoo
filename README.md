@@ -9,4 +9,4 @@ Forked from Particle_life @  https://github.com/hunar4321/particle-life , an abs
 The favicon would have been impossible (literally) without the use of 'Gifski' @  https://github.com/sindresorhus/Gifski
 ****************************************************************************************************************************************************************************
 
-
+![digital-zoo](favicon.gif) 
