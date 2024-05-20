@@ -30,7 +30,11 @@ Although the Zoo is a novel place to spend some downtime ,it raises some serious
 
 from simplicity ...
 *********************************************************************************************************************************************************************************
-                                                                                                                                                                                
+ ## Mods
+ * Added 6 extra lifeforms ( 'lime','purple', 'magenta', 'violet','gold','silver').
+ * Reduced number of possible 'atoms' per unit in correspondence. ( there is a lot of data to capture in real time in your browser ).
+ * Added 'Favicon' , Capured data as .webm , breakdown into 600+ seperate (.png) frames totalling 75mb , recompiled to a single .gif , 880 kb .
+ * Created 'container' for desktop web-app ,264 bytes, teleport 2 the zoo via hyperdimensional space ( a keen eye will notice that it is not the same icon as the favicon ).
                                                                                                                                                                                     
                                                                                                                                                                                     
                                                                                                                                                                            
