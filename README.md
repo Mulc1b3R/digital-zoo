@@ -59,4 +59,4 @@ Don't be suprised if you have never encountered this method before , that's beca
 ![life](life.png)  
                                                                                                                                                                                     
                                                                                                                                                                                     
-                 ``` Download and train ai models : @  https://www.brainxyz.com/wp-content/uploads/2021/09/Braifun-nlp_0.2.1.zip```
+                 ``` https://www.brainxyz.com/wp-content/uploads/2021/09/Braifun-nlp_0.2.1.zip```
