@@ -14,7 +14,7 @@ The favicon would have been impossible (literally) without the use of 'Gifski' @
 *****************************************************************************************************************************************************************************
 ## Demo
 
-View the live demo here @ https://psicodata.io/digital%20zoo/   and build you own amazing self organizing digital entities , the 'units' form into 'clusters' displaying
+View the live demo here @ https://psicodata.io/digitalzoo/index.html   and build you own amazing self organizing digital entities , the 'units' form into 'clusters' displaying
 
 remarkable self organization , caused by the universal laws of attraction and repulsion... Displaying attributes that can only be described as 'Emergant Phenomenon'.
 
