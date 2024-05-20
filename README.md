@@ -53,10 +53,11 @@ Don't be suprised if you have never encountered this method before , that's beca
 *  Zendog + Eve (robots.txt) Sentinal / text2speech.
 *  psico-mojo (the bluegoldfish-project-psico communications) for creating the 'ICON BURNER'.
 *  openai , for open sourcing the tts-1 'whisper' project.
-*  Mulciber. (disobay@proton.me).Psico communications. (Spectacular Failiure).
+*  Mulciber. (disobay@proton.me).Psico communications. 
 ***********************************************************************************************************************************************************************************
   
 ![life](life.png)  
+             
                                                                                                                                                                                     
                                                                                                                                                                                     
-                 ``` https://www.brainxyz.com/wp-content/uploads/2021/09/Braifun-nlp_0.2.1.zip```
+                 Download and train AI models @ https://www.brainxyz.com/wp-content/uploads/2021/09/Braifun-nlp_0.2.1.zip
