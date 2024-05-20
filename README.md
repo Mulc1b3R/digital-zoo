@@ -46,10 +46,16 @@ Don't be suprised if you have never encountered this method before , that's beca
 
 ##Credits
 
-* https://github.com/hunar4321
-* lil-gui@0.17 (control).
-* The favicon would have been impossible (literally) without the use of 'Gifski' @  https://github.com/sindresorhus/Gifski
+*  https://github.com/hunar4321
+*  lil-gui@0.17 (control).
+*  The favicon would have been impossible (literally) without the use of 'Gifski' @  https://github.com/sindresorhus/Gifski
 *  Tim Berniers Lee .
+*  Zendog + Eve (robots.txt) Sentinal / text2speech.
+*  psico-mojo (the bluegoldfish-project-psico communications) for creating the 'ICON BURNER'.
+*  openai , for open sourcing the tts-1 'whisper' project.
+*  Mulciber. (disobay@proton.me).Psico communications. (Spectacular Failiure).
+
+  ```WE come in peace for all humankind```
 
                                                                                                                                                                                     
                                                                                                                                                                                     
