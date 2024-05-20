@@ -49,6 +49,7 @@ Don't be suprised if you have never encountered this method before , that's beca
 * https://github.com/hunar4321
 * lil-gui@0.17 (control).
 * The favicon would have been impossible (literally) without the use of 'Gifski' @  https://github.com/sindresorhus/Gifski
+*  Tim Berniers Lee .
 
                                                                                                                                                                                     
                                                                                                                                                                                     
