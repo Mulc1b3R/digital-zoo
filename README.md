@@ -9,13 +9,10 @@ Forked from Particle_life @  https://github.com/hunar4321/particle-life , an abs
 The favicon would have been impossible (literally) without the use of 'Gifski' @  https://github.com/sindresorhus/Gifski
 ****************************************************************************************************************************************************************************
 
-![digital-zoo](favicon.gif) 
+![digital-zoo](favicon.gif)  ![digital-zoo](control.png) 
 
  
                                                                                                                                                                                 
                                                                                                                                                                                     
                                                                                                                                                                                     
-                                                                                                                                                                                    
-                                                                                                                                                                                    <div style="float: right;">
-                                                                                                                                                                    <img src="control.png" alt="control panel" width="200">
-                                                                                                                                                                                                      </div>
+                                                                                                                                                                           
