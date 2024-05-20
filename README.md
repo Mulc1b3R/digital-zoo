@@ -20,7 +20,7 @@ remarkable self organization , caused by the universal laws of attraction and re
 
 Adjust settings with pinpoint accuracy , Track clusters , dislpay inter-relationships by drawing lines between atoms in a similay was to particles.js , make video's
 
-of your 'pet' forms and export at the click of a button... Alter the number of colours on screen and the number of atoms per colour , watch some clusters for into digital versions of
+of your 'pet' forms and export at the click of a button... Alter the number of colours on screen and the number of atoms per colour , watch some clusters form into digital versions of
 
 simple cellular organisms while others display 'preditory' behaivior. Witness formations display remarkable similarities with cosmological phenomena.
 
